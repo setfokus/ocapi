@@ -1,0 +1,1 @@
+ALTER TABLE Historia  ADD idSede int null

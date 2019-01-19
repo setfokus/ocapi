@@ -1,0 +1,10 @@
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\bin\Release\netcoreapp2.0\ocapiWebAPI.deps.json
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\bin\Release\netcoreapp2.0\ocapiWebAPI.runtimeconfig.json
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\bin\Release\netcoreapp2.0\ocapiWebAPI.runtimeconfig.dev.json
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\bin\Release\netcoreapp2.0\ocapiWebAPI.dll
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\bin\Release\netcoreapp2.0\ocapiWebAPI.pdb
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\obj\Release\netcoreapp2.0\ocapiWebAPI.csproj.CoreCompileInputs.cache
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\obj\Release\netcoreapp2.0\ocapiWebAPI.AssemblyInfoInputs.cache
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\obj\Release\netcoreapp2.0\ocapiWebAPI.AssemblyInfo.cs
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\obj\Release\netcoreapp2.0\ocapiWebAPI.dll
+D:\MEGA\OCAPI\ocapiWebAPI\ocapiWebAPI\obj\Release\netcoreapp2.0\ocapiWebAPI.pdb
